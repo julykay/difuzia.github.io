@@ -1,0 +1,53 @@
+@media(max-width: 500px){
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.main{
+	background: linear-gradient(#B7E5DD, #FFD9C0);
+}
+.ooo{
+	background-color: #B1BCE6;
+}
+.koko{
+	border-radius: 30px;
+	padding: 10px;
+}
+
+.bb{
+	text-align: center;
+	font-family: 'Rubik', sans-serif;
+	font-size: 36px;
+	color: #FAF0D7 ;
+	
+}
+/*1*/
+.jjj{
+	font-family: 'Rubik', sans-serif;
+	background: linear-gradient(#B1BCE6, #3EC1D3);
+	margin: 8%;
+	border-radius: 20px;
+	padding: 3%;
+	transition: 0.7s;
+}
+.jjj:hover{
+	transform: scale(1.1);
+}
+.p{
+	font-family: 'Rubik', sans-serif;
+	color: #FAF0D7;
+	padding: 10px;
+	font-size:12px;
+}
+.h1{
+	font-family: 'Rubik', sans-serif;
+	color: #FAF0D7;
+	font-size:20px;
+}
+.h2{
+	font-family: 'Rubik', sans-serif;
+	color: #FAF0D7;
+	font-size:18px;
+}
+}
